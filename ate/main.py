@@ -3,7 +3,7 @@ import argparse
 import logging
 import unittest
 
-import HtmlTestRunner
+import HTMLTestRunner
 
 from ate import runner, utils
 
